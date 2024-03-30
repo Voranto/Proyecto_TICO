@@ -11,9 +11,6 @@ Funcionamiento: Usando el algoritmo [k-nearest neighbors](https://en.wikipedia.o
 - Está recomendado no usar una brush size menor de 2 para el dibujo general, ya que las imagenes de comparación tienen un grosor similar a la brush size 2 o 3
 - Es aconsejable que caracter dibujado no ocupe la enteridad del grid, sino que se asemeje a los ejemplos de dibujos lo máximo posible
 
-# EJEMPLOS DE DIBUJOS
-
-
 # INSTALACION
 
 El programa está hecho en Python, por lo que es necesario la última versión de [Python](https://www.python.org/downloads/)
@@ -48,4 +45,18 @@ python3 main.py
 Dibujar un número siguiendo las guías anteriores
 
 Disfrutar!
+
+# EJEMPLOS DE DIBUJOS
+![0](readme_img/0.png)
+![0](readme_img/1.PNG)
+![0](readme_img/2.png)
+
+Es relativamente importante acentuar los picos en el 3
+![0](readme_img/3PNG.PNG)
+![0](readme_img/4.png)
+![0](readme_img/5.png)
+![0](readme_img/6.png)
+![0](readme_img/7.png)
+![0](readme_img/8.png)
+![0](readme_img/9.png)
 
