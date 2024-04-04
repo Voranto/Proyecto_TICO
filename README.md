@@ -33,7 +33,7 @@ Ya están todos los requerimientos instalados!
 
 Descargar el .zip en el botón verde de "Code" arriba del todo y extraerlo en la carpetda de "Downloads" (si se desea cambiar la carpeta donde se guarda el archivo, será nacesario cambiar la path mostrada debajo)
 
-Copiar la path de la carpeta. Será algo similar a C:\Users\USUARIO_AQUI\Downloads\OCR
+Copiar la path de la carpeta. Será algo similar a C:\Users\USUARIO_AQUI\Downloads\Proyecto_TICO-main\Proyecto_TICO-main
 
 Abrir la consola de comandos (Windows Command Prompt)
 
