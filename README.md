@@ -1,5 +1,4 @@
 # Reconocimiento de caracteres 0-9 con el algoritmo KNN
-Hecho por: Luca Siegel
 
 
 Título: Reconocimiento de dígitos dibujados haciendo uso del algoritmo KNN
