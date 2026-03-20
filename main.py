@@ -1,4 +1,3 @@
-#Proyecto Final de TICO. Hecho por: Luca Siegel Moreno
 #Funcionamiento: Usando el algoritmo knn(k-nearest neighbors) se puede intentar adivinar utilizando la distancia euclidiana para determinar la variación
 #de color de los pixeles a que numero se parece el numero dibujado. Tiene muchas dificultades con ciertos números, como el 9 o el 6, ya que se parecen mucho
 #a otros números, como por ejemplo, el 9 se parece mucho a un 4 al dibujarse. 
